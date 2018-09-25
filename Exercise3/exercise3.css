@@ -1,0 +1,23 @@
+body
+{
+	text-align: center;
+	color: purple;
+	font-family: "Times New Roman", Times, serif;
+    font-size: 12pt;
+
+	background-image: url("http://verdewall.com/wp-content/uploads/2017/05/White-Background-307-1024x640.png");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+a
+{
+    color: blue;
+}
+
+a:hover
+{
+	color: red;
+	font-size: 14pt;
+}
